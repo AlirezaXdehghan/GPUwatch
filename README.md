@@ -19,8 +19,11 @@ GPUwatch is a Windows only tool that counts the connected GPUs and let's you tak
 
 ## Usage
 Clone this repo and put it anywhere you want.
+
 You can simply edit the run.bat file and add your desired parameters or run the file using CommandLine.
+
 It's also not necessary to use the fail.bat or success.bat, you can point to any file to open, [maybe a cat video?](https://www.youtube.com/watch?v=7yLxxyzGiko)
+
 here's some examples below
 
 ```bash
