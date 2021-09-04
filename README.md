@@ -23,16 +23,16 @@ You can simply edit the run.bat file and add your desired parameters or run the 
 It's also not necessary to use the fail.bat or success.bat, you can point to any file to open, [maybe a cat video?](https://www.youtube.com/watch?v=7yLxxyzGiko)
 here's some examples below
 
-``
+```bash
 
 python.exe GPUwatch.py --gpucount   #good for the first time, take the count and use it as the limit
 
-``
+```
 
-``
+```bash
 
 python.exe GPUwatch.py -l 5 -fs fail.bat -ss success.bat   #if the connected GPUs go below 5, fail.bat will run, otherwise success.bat will be executed
 
-``
+```
 
 That's it, Happy Mining!
