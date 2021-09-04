@@ -3,7 +3,7 @@ GPUwatch is a Windows only tool that counts the connected GPUs and let's you tak
 
 ## Requirements
 
-* <b>wcim</b> should be in your <b>PATH</b>
+* <b>wmic</b> should be in your <b>PATH</b> [here's a link](https://superuser.com/questions/1178674/wmic-is-not-recognized-as-an-internal-or-external-command-operable-program-or)
 * Python 3
 * A rig with GPU problems
 
